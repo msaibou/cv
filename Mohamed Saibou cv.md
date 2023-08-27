@@ -56,11 +56,16 @@ Développeur PHP Symfony expérimenté avec plus de 15 ans d'expérience dans la
 
 
 - Missions :
-	- Conception des modélisation des applications
+	- Recueil des besoins client
+	- Rédaction des user stories
+	- Conception et modélisation des applications
+	- TMA des applications existantes
 	- Développement des Api
 	- Conception UI/UX Design
 	- Développement des interfaces TWIG
 	- Conception de requêtes SQL
+	- Revue de code 
+ 
 
 
 - Technologies : 
