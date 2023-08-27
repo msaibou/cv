@@ -1,9 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
 <style>h1 { border-bottom: 0; } </style>
 <img src="https://media.licdn.com/dms/image/D4E03AQEz5S8WWfnT-A/profile-displayphoto-shrink_400_400/0/1689638952199?e=1698278400&v=beta&t=cN7uN8NcuwdbkllmCp63BtTJnHOGWXl0nzAIlVO1CKY"
      alt="Markdown Monster icon"
