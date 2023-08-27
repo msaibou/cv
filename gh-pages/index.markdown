@@ -94,7 +94,7 @@ Développeur PHP Symfony expérimenté avec plus de 15 ans d'expérience dans la
 - Anglais (courant)
 
 **Centres d'intérêt :**
-- Lecture, Voyages, Sport, Apiculture, Jeu vidéo
+- Lecture, Voyages, Sport, Apiculture
 
 
 
